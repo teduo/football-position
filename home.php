@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
-    <h1><a href="http://localhost/football/2/home.php">Football</a></h1>
+    <h1><a href="home.php">Football</a></h1>
     <div id="grid">
       <ol>
         <?php
