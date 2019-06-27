@@ -1,0 +1,4 @@
+<li><a href="http://localhost/football/2/home.php?id=1">Goalkeeper</a></li>
+<li><a href="http://localhost/football/2/home.php?id=2">Defender</a></li>
+<li><a href="http://localhost/football/2/home.php?id=3">Midfilder</a></li>
+<li><a href="http://localhost/football/2/home.php?id=4">Forward</a></li>
